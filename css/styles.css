@@ -1,0 +1,33 @@
+body{
+    background-color:ghostwhite;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    height: 300px;
+    float: left;
+    border: solid gray 5px;
+    margin-bottom: 15px;
+}
+
+.column {
+    width: 300px;
+    float: left;
+}
+
+
+
+#lastlist li{
+    list-style-type: none;
+}
+.top{
+   margin-left: 27%;
+}
+
+.bottom {
+    margin-left: 25%;
+}
