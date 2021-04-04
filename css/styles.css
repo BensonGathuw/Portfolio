@@ -8,15 +8,16 @@ h1{
 }
 
 img {
-    height: 300px;
+    height: 250px;
     float: left;
     border: solid gray 5px;
-    margin-bottom: 15px;
+  
 }
 
 .column {
     width: 300px;
     float: left;
+    margin: auto;
 }
 
 
@@ -30,8 +31,10 @@ img {
 
 .bottom {
     margin-left: 25%;
+    width: fit-content;
 }
 
-#last {
-    margin-left: 15%;
+#sec {
+    margin-right: 100px;
 }
+
